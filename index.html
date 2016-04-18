@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, minimum-scale=1, user-scalable=yes">
+	<link rel="stylesheet" type="text/css" media="screen" href="css/style.css" />
+	<title>Book Exchange</title>
+</head>
+
+<body>
+	<!-- hack to maintain body and backdrop at top edge of page -->
+	<div class="clear" style="margin-top: -1px ; height: 1px ;"></div>
+
+	<div id="backdrop"></div>
+
+	<header>
+	<div id="title">Book Exchange</div>
+	<div id="tag" class="loggedin">Hello there, <span id="users_name">Rose</span>! (<a id="account" href="#">my books</a>, <a id="logout" href="#">logout</a>)</div>
+	</header>
+
+	<nav>
+	</nav>
+
+	<!--
+	<section>
+		<article>
+			<div class="article-meta">asdf</div>
+			<h2>Grumpy wizards make great potions</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+			<p>Ut non diam quam. Ut cursus convallis odio eget rutrum.</p>
+		</article>
+	</section>
+	-->
+
+<!-- LOGIN -->
+	<section id="login">
+		<form id="form_login">
+			<input class="query" id="login_query" type="text" name="query" value="Please enter your GCC username."/>
+			<label></label>
+		</form>
+	</section>
+
+<!-- HOME -->
+	<section id="home">
+		<div id="buysell">
+			<a class="side left" href="#"><span>BUY</span></a>
+			<a class="side right" href="#"><span>SELL</span></a>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+	</section>
+	
+<!-- BUY 	my_books view -->
+	<section id="my_books">
+		<a class="back_books" href="#">&larr; home</a>
+		<div class="results mybooks_results">
+			
+		</div>
+	</section>
+	
+<!-- LOGIN -->
+	<section id="faq">
+		<a class="back_books" href="#">&larr; back</a>
+		<h3 class="faq_title">
+			How much should I sell my book for?
+		</h3>
+		<p>
+			Check Amazon, Ebay and other online stores to figure out what price to choose.
+		</p>
+		<h3 class="faq_title">
+			Where best to meet my buyer / seller?
+		</h3>
+		<p>
+			Don't meet people off campus! Meet in a public place such as the student union. Otherwise, send your book via intercampus mail.
+		</p>
+	</section>
+
+<!-- BUY 	search view -->
+<!-- 
+todo:
+	* mod jquery to work without such specific ids
+	* setup mod url so all requests go to index.php
+-->
+
+	<section id="search">
+		<form id="form_search">
+			<a class="back" href="#">&larr; back</a>
+			<input class="query" id="search_query" type="text" name="query" value="search by ISBN, title, or author"/>
+			<label>press enter to search</label>
+		</form>
+		<div class="results search_results">
+			
+		</div>
+	</section>
+
+<!-- BUY 	list view -->
+	<section id="list_view">
+		<a class="back" href="#">&larr; back</a>
+		list view
+	</section>
+	
+<!-- BUY 	contact seller view -->
+	<section id="buy_view">
+		<form id="form_contact">
+			<a class="back_search" href="#">&larr; back</a>
+		
+			<div class="single_result">
+				<!-- clicked book information -->
+				<img class="book_cover" src=""/>
+				<div class="meta"></div>
+			</div>
+			
+			<label>Note to Seller</label>
+				<input type="text" name="note_to_seller" id="note_to_seller"/>
+			
+			<label>Prefered Delivery Method</label>
+				<select name="delivery" id="delivery">
+					<option value="meeting">Meet In Person</option>
+					<option value="mail">Intercampus Mail</option>
+				</select>
+
+			<br><button type="submit">I'm interested in this book!</button>
+		</form>
+	</section>
+	
+<!-- BUY 	contact seller view -->
+	<section id="contacted_view">
+		<form id="form_contact">
+			<a class="back_search" href="#">&larr; back</a>
+			<label>Ok! We have notified the seller via email.</label>
+		</form>
+	</section>
+	
+<!-- BUY 	contact seller view -->
+	<section id="submitted_view">
+		<form id="form_contact">
+			<a class="back" href="#">&larr; back</a>
+			<label>Ok! It has been listed for sale!</label>
+		</form>
+	</section>
+	
+<!-- SELL 	submit-a-book form -->
+	<section id="sell">
+		<form id="form_sell">
+			<a class="back" href="#">&larr; back</a>
+			<label>ISBN 10 or 13</label>
+				<input type="text" name="isbn" id="isbn"/>
+
+			<label>Title</label>
+				<input type="text" name="title" id="book_title"/>
+
+			<label>Author</label>
+				<input type="text" name="author" id="author"/>
+
+			<label>Edition</label>
+				<input type="text" name="edition" id="edition"/>
+			
+			<label>Desired Price</label>
+				<input type="text" name="price" id="price"/>
+
+			<label>Condition</label>
+				<select name="condition" id="condition">
+					<option value="average">Average</option>
+					<option value="good">Good</option>
+					<option value="great">Great</option>
+				</select>
+			<!--
+			<label>Delivery Method</label>
+				<select name="delivery" id="delivery">
+					<option value="meeting">Meet In Person</option>
+					<option value="mail">Intercampus Mail</option>
+				</select>
+			-->
+			<input type="submit"/>
+		</form>
+	</section>
+
+	<section id="sell_sent">
+		<a class="back" href="#">&larr; back</a>
+		Your book is up for sale!
+	</section>
+
+	<footer>
+		<div id="menu">
+			<a id="go_home" href="#">home</a>
+			<a id="go_faq" href="#">faq</a>
+			<a href="mailto:support@seriousllama.com">support</a>
+		</div>
+	</footer>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/trianglify/0.2.1/trianglify.min.js"></script>
+	<script type="text/javascript" src="js/happy.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
+	
+</body>
+
+</html>

@@ -1,0 +1,777 @@
+[02-Dec-2015 16:24:49 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 48
+[02-Dec-2015 16:24:54 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 48
+[02-Dec-2015 16:24:59 America/Detroit] PHP Fatal error:  Call to undefined function push() in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 47
+[02-Dec-2015 16:25:45 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 38
+[02-Dec-2015 16:25:45 America/Detroit] PHP Fatal error:  Call to undefined function push() in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 50
+[02-Dec-2015 16:26:57 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 38
+[02-Dec-2015 16:26:57 America/Detroit] PHP Fatal error:  Call to undefined function push() in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 50
+[02-Dec-2015 16:26:58 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 38
+[02-Dec-2015 16:26:58 America/Detroit] PHP Fatal error:  Call to undefined function push() in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 50
+[02-Dec-2015 16:27:15 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 38
+[02-Dec-2015 16:27:15 America/Detroit] PHP Notice:  Undefined variable: content in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 30
+[02-Dec-2015 16:27:49 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 38
+[02-Dec-2015 16:28:00 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 38
+[02-Dec-2015 18:09:17 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:09:27 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:09:39 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:09:40 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:09:48 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:09:50 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:10:21 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:10:22 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:10:34 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:10:35 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 79
+[02-Dec-2015 18:10:59 America/Detroit] PHP Notice:  Undefined variable: newKey in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 105
+[02-Dec-2015 18:17:49 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 105
+[02-Dec-2015 18:17:49 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 106
+[02-Dec-2015 18:18:17 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 18:18:17 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 106
+[02-Dec-2015 18:18:17 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 107
+[02-Dec-2015 18:18:45 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 18:18:45 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 106
+[02-Dec-2015 18:18:45 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 107
+[02-Dec-2015 18:18:59 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 18:18:59 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 106
+[02-Dec-2015 18:18:59 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 107
+[02-Dec-2015 18:19:15 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 18:19:15 America/Detroit] PHP Warning:  constant(): Couldn't find constant EMAIL_ENDING in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 18:19:15 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 106
+[02-Dec-2015 18:19:15 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 107
+[02-Dec-2015 18:19:22 America/Detroit] PHP Warning:  constant(): Couldn't find constant EMAIL_ENDING in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 18:19:22 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 106
+[02-Dec-2015 18:19:22 America/Detroit] PHP Notice:  Use of undefined constant EMAIL_ENDING - assumed 'EMAIL_ENDING' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 107
+[02-Dec-2015 18:35:55 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 110
+[02-Dec-2015 18:36:01 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 110
+[02-Dec-2015 18:57:54 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 100
+[02-Dec-2015 18:57:55 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 100
+[02-Dec-2015 19:00:02 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 102
+[02-Dec-2015 19:01:27 America/Detroit] PHP Parse error:  syntax error, unexpected '{' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 102
+[02-Dec-2015 19:03:20 America/Detroit] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 98
+[02-Dec-2015 19:03:29 America/Detroit] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 98
+[02-Dec-2015 19:08:49 America/Detroit] PHP Warning:  mysql_real_escape_string(): Access denied for user 'parkes'@'localhost' (using password: NO) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 96
+[02-Dec-2015 19:08:49 America/Detroit] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 96
+[02-Dec-2015 19:10:07 America/Detroit] PHP Warning:  mysql_real_escape_string(): Access denied for user 'parkes'@'localhost' (using password: NO) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 19:10:07 America/Detroit] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 19:10:08 America/Detroit] PHP Warning:  mysql_real_escape_string(): Access denied for user 'parkes'@'localhost' (using password: NO) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 19:10:08 America/Detroit] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 19:10:38 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 94
+[02-Dec-2015 19:55:09 America/Detroit] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 123
+[02-Dec-2015 19:55:19 America/Detroit] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 123
+[02-Dec-2015 19:55:37 America/Detroit] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 124
+[02-Dec-2015 23:26:25 America/Detroit] PHP Notice:  Undefined index: errors in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 22
+[02-Dec-2015 23:26:25 America/Detroit] PHP Notice:  Undefined index: logs in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 23
+[02-Dec-2015 23:26:25 America/Detroit] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/parkes/public_html/project/442/bookexchange/exchange.php:22) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 75
+[03-Dec-2015 00:32:27 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 76
+[03-Dec-2015 08:38:58 America/Detroit] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 153
+[03-Dec-2015 08:41:26 America/Detroit] PHP Parse error:  syntax error, unexpected 'loggedin' (T_STRING) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 168
+[03-Dec-2015 08:41:33 America/Detroit] PHP Parse error:  syntax error, unexpected 'loggedin' (T_STRING) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 168
+[03-Dec-2015 08:45:48 America/Detroit] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 158
+[03-Dec-2015 08:48:01 America/Detroit] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_array() in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 158
+[03-Dec-2015 08:52:41 America/Detroit] PHP Fatal error:  Call to undefined method mysqli_stmt::fetch_assoc() in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 158
+[03-Dec-2015 08:53:04 America/Detroit] PHP Fatal error:  Call to undefined method mysqli_stmt::get_result() in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 158
+[03-Dec-2015 08:55:00 America/Detroit] PHP Notice:  Undefined variable: title in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 160
+[03-Dec-2015 08:55:00 America/Detroit] PHP Notice:  Undefined variable: title in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 160
+[03-Dec-2015 08:55:00 America/Detroit] PHP Notice:  Undefined variable: title in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 160
+[03-Dec-2015 08:57:19 America/Detroit] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 156
+[03-Dec-2015 09:01:27 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 153
+[03-Dec-2015 09:07:42 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 161
+[03-Dec-2015 09:07:57 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 161
+[03-Dec-2015 09:08:08 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 161
+[03-Dec-2015 09:09:48 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 161
+[03-Dec-2015 09:10:03 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 161
+[03-Dec-2015 09:10:07 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 161
+[03-Dec-2015 09:11:11 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 161
+[03-Dec-2015 09:12:38 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 162
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 166
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 167
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 168
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 169
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 170
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 171
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 172
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 173
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 174
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 166
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 167
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 168
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 169
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 170
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 171
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 172
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 173
+[03-Dec-2015 09:13:10 America/Detroit] PHP Warning:  Cannot use a scalar value as an array in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 174
+[03-Dec-2015 09:17:33 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 76
+[03-Dec-2015 09:55:43 America/Detroit] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 219
+[03-Dec-2015 09:55:46 America/Detroit] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 219
+[03-Dec-2015 09:55:46 America/Detroit] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 219
+[03-Dec-2015 09:55:52 America/Detroit] PHP Parse error:  syntax error, unexpected '")"' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '$' in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 219
+[03-Dec-2015 09:57:12 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 196
+[03-Dec-2015 09:57:31 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 196
+[03-Dec-2015 09:58:22 America/Detroit] PHP Notice:  Undefined variable: list in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 207
+[03-Dec-2015 10:00:10 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 213
+[03-Dec-2015 10:13:08 America/Detroit] PHP Warning:  mysqli_stmt::bind_result(): Number of bind variables doesn't match number of fields in prepared statement in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 204
+[03-Dec-2015 10:13:08 America/Detroit] PHP Notice:  Undefined variable: isSold in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 205
+[03-Dec-2015 10:13:08 America/Detroit] PHP Notice:  Undefined variable: isSold in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 207
+[03-Dec-2015 10:16:24 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 76
+[03-Dec-2015 10:19:37 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 219
+[03-Dec-2015 10:19:37 America/Detroit] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 219
+[03-Dec-2015 10:22:08 America/Detroit] PHP Parse error:  syntax error, unexpected '$currentlySold' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 207
+[03-Dec-2015 10:38:29 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 119
+[03-Dec-2015 10:38:36 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 119
+[03-Dec-2015 10:38:37 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 119
+[03-Dec-2015 10:38:40 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 119
+[03-Dec-2015 10:40:27 America/Detroit] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 120
+[03-Dec-2015 10:40:59 America/Detroit] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 120
+[03-Dec-2015 10:41:00 America/Detroit] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 120
+[03-Dec-2015 10:47:16 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 76
+[03-Dec-2015 10:54:31 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:54:31 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:54:57 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:54:57 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:55:27 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:55:27 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:55:28 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:55:28 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:55:55 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:55:55 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:56:42 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:56:42 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:56:52 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:56:52 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:57:30 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:57:30 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:57:39 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:57:39 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:58:36 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:58:36 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:58:59 America/Detroit] PHP Notice:  Undefined variable: conn in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 10:58:59 America/Detroit] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 300
+[03-Dec-2015 11:00:03 America/Detroit] PHP Notice:  Undefined variable: list in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 313
+[03-Dec-2015 11:01:09 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 320
+[03-Dec-2015 11:01:20 America/Detroit] PHP Fatal error:  Call to a member function bind_param() on a non-object in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 320
+[03-Dec-2015 11:33:20 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:33:21 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:34:52 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:53 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:53 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:53 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:54 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:55 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:34:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:05 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:05 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:05 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:05 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:05 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:08 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:08 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:08 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:08 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:08 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:09 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:09 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:09 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:10 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:14 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:15 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:15 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:19 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:25 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:25 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:25 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:25 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:25 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:25 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:26 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:26 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:26 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:35:56 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:36:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:07 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:07 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:10 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:11 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:13 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:13 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:19 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:19 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:27 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:27 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:27 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:27 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:27 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:28 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:28 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:28 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:36 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:36 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:36 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:36 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:36 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:37 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:44 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:44 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:44 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:44 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:44 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:44 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:44 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:44 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:48 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:49 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:49 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:52 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:52 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:53 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:53 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:53 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:53 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:54 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:55 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:55 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:55 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:55 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:55 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:36:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:01 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:01 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:01 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:01 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:01 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:01 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:01 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:01 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:06 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:06 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:07 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:08 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:08 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:08 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:08 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:13 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:13 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:14 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:14 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:15 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:15 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:15 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:15 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:15 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:16 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:17 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:18 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:18 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:18 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:18 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:19 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:19 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:19 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:19 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:19 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:34 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:37:38 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:37:41 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:37:48 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:37:48 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:56 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:57 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:58 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:37:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:01 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:38:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:18 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:18 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:25 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:26 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:29 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:30 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:30 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:31 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:31 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:31 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:31 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:31 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:31 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:31 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:31 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:32 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:32 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:32 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:32 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:32 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:32 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:32 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:32 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:38 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:38:42 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:38:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:39:09 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:39:13 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:39:13 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 346
+[03-Dec-2015 11:39:24 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:39:27 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:39:27 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 11:39:37 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 12:17:22 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 12:28:52 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 12:31:30 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 13:23:52 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 13:38:36 America/Detroit] PHP Notice:  Undefined variable: list in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 195
+[03-Dec-2015 13:39:27 America/Detroit] PHP Notice:  Undefined variable: list in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 195
+[03-Dec-2015 13:39:51 America/Detroit] PHP Notice:  Undefined variable: list in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 195
+[03-Dec-2015 13:41:43 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 13:46:52 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 14:05:32 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:36 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:37 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:39 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:40 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:40 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:41 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:43 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:43 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:47 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:48 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:48 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:48 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:55 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:59 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:59 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:05:59 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:06:00 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:06:00 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:06:00 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:07:05 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:07:07 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:07:07 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:07:15 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 369
+[03-Dec-2015 14:08:17 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 371
+[03-Dec-2015 14:08:24 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 371
+[03-Dec-2015 14:08:50 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 371
+[03-Dec-2015 14:08:56 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 371
+[03-Dec-2015 14:08:57 America/Detroit] PHP Parse error:  syntax error, unexpected '$msg' (T_VARIABLE) in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 371
+[03-Dec-2015 14:14:25 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 14:17:11 America/Detroit] PHP Notice:  Undefined variable: list in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 368
+[03-Dec-2015 14:21:17 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 205
+[03-Dec-2015 14:21:17 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 207
+[03-Dec-2015 14:21:17 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 209
+[03-Dec-2015 14:21:17 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 213
+[03-Dec-2015 14:21:24 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 14:22:18 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 205
+[03-Dec-2015 14:22:18 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 207
+[03-Dec-2015 14:22:27 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 205
+[03-Dec-2015 14:22:27 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 207
+[03-Dec-2015 14:22:27 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 209
+[03-Dec-2015 14:22:27 America/Detroit] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 213
+[03-Dec-2015 14:28:57 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 15:30:14 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 16:40:34 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 16:55:26 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[03-Dec-2015 20:25:00 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[04-Dec-2015 13:46:02 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[04-Dec-2015 17:33:15 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[04-Dec-2015 23:07:42 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[04-Dec-2015 23:13:32 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[04-Dec-2015 23:14:12 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:18 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:18 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:20 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:21 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:22 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:23 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:24 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:30 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:30 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:40 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:41 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:45 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:46 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:46 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:46 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:46 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[04-Dec-2015 23:14:46 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[06-Dec-2015 13:18:21 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[07-Dec-2015 01:15:37 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[08-Dec-2015 14:10:55 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[08-Dec-2015 14:15:21 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[08-Dec-2015 14:23:16 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[08-Dec-2015 14:32:46 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[08-Dec-2015 14:47:22 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[08-Dec-2015 15:08:28 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[08-Dec-2015 23:35:29 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[09-Dec-2015 15:04:29 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[09-Dec-2015 15:05:35 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:39 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:43 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:50 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:51 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:54 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:54 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:54 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:05:54 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:06:59 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:07:00 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:07:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:07:04 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:07:05 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:07:06 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:07:06 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:07:52 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:08:01 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:08:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:09:46 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:09:46 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:10:02 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:10:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:10:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:10:03 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:10:13 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:10:13 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[09-Dec-2015 15:59:11 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[10-Dec-2015 13:44:33 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[10-Dec-2015 13:44:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[10-Dec-2015 13:44:38 America/Detroit] PHP Notice:  Undefined index: power in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 455
+[10-Dec-2015 13:45:43 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[10-Dec-2015 16:11:51 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[13-Dec-2015 13:25:47 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[21-Dec-2015 15:59:13 America/Detroit] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[09-Feb-2016 07:25:49 America/Los_Angeles] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[10-Mar-2016 17:01:21 America/Los_Angeles] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[10-Mar-2016 17:02:45 America/Los_Angeles] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[11-Mar-2016 15:05:05 America/Los_Angeles] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[11-Mar-2016 18:27:50 America/Los_Angeles] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[13-Mar-2016 17:36:03 America/Los_Angeles] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[14-Mar-2016 06:27:05 America/Los_Angeles] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[15-Mar-2016 07:02:33 America/Los_Angeles] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
+[18-Mar-2016 07:49:30 America/Los_Angeles] PHP Notice:  Undefined index: loggedin in /home/parkes/public_html/project/442/bookexchange/exchange.php on line 80
